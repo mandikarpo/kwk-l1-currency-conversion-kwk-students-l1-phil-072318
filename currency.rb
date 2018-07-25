@@ -4,7 +4,9 @@ def usd_to_eur
     usd = gets.chomp 
     
   puts "Your Euro amount is #{usd}%0.86"
-  
+end 
+
+
 def eur_to_us(euro)
   puts euro * 100
 end
