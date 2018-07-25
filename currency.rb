@@ -1,1 +1,14 @@
-# Write your cod here
+
+def usd_to_eur
+  puts "How many USD do you have?"
+    usd = gets.chomp 
+    
+  puts "Your Euro amount is "
+  
+def eur_to_us(euro)
+  puts euro * 100
+end
+
+eur_to_us(0.86)
+  
+
