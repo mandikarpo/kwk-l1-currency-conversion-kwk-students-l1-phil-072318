@@ -3,7 +3,7 @@ def usd_to_eur
   puts "How many USD do you have?"
     usd = gets.chomp 
     
-  puts "Your Euro amount is #{usd}%0.86"
+  puts "Your Euro amount is #{euro} * 0.86"
 end 
 
 
